@@ -23,7 +23,7 @@ Detailed code analysis and findings are documented in this [notebook](https://ww
 
 <br>
 
-><p align="left"><a href="#insights"> ➡️ Jump straight to the insights</a></p>
+><p align="left"><a href="#insights"> ➡️ Jump straight to the insights 💡</a></p>
 >
 ><p align="left"><a href="#recommend"> ✅ View my Recommendations</a></p>
 >
