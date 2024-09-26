@@ -29,7 +29,7 @@ Detailed code analysis and findings are documented in this [notebook](https://ww
 
 
 <a name="insights"></a>
-# 💡 Insights on Crime trends
+# 💡 Insights
 
 
 
