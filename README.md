@@ -69,16 +69,17 @@ Total row count: 20,000 Records
 <a name="insights"></a>
 # 💡 Insights
 
-
+### WIP
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <a name="recommend"></a>
 # ✅ Recommendations
 
-
+### WIP
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ----
 
 <a name="Contact"></a> 
