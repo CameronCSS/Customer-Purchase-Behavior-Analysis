@@ -9,12 +9,19 @@
 It includes detailed information about customer demographics, product types, and purchase behaviors.
 
 
-Insights and recommendations are provided covering the following key areas:
+### Objectives
+The goal of this project is to conduct an in-depth analysis to uncover key insights that can inform business strategies:
+
+#### Insights and recommendations are provided covering the following key areas:
 
 - Sales Trend Analysis: Evaluation of historical sales patterns by month and by products, focusing on revenue and Average Order Value (AOV)
 - Product Performance: an Analysis on various products to understand their impact on sales and returns.
 - Loyalty Program Success: Assessment of loyalty membership
 - Customer Demographics Comparisons: high level comparison of sales and orders by different customers and how their metrics compare to the overall business
+
+#### Significance
+The insights derived from this analysis will help optimize marketing efforts, enhance customer engagement, and drive sales growth in the company's electronics category.
+
 
 <br>
 <br>
@@ -31,7 +38,7 @@ Detailed code analysis and findings are documented in this [notebook](https://ww
 <br>
 
 ## Data Structure Overview:
-The Electronic Sales Database structure encompasses both numeric and categorical data, capturing essential customer and transaction details.
+The Electronic Sales Database contains both numeric and categorical data, capturing essential customer and transaction details.
 
 <details>
   <summary>Click to View Data Details</summary>
@@ -59,8 +66,8 @@ The Electronic Sales Database structure encompasses both numeric and categorical
 
 **Entity Relationship Diagram:**
 
+![ERD Customer Data](https://github.com/user-attachments/assets/feaf00b1-59c6-4e2d-bd1a-de81f3ba6e03)
 
-![database_diagram](https://github.com/user-attachments/assets/758c944d-3bb7-4416-93df-e944373bdbcd)
 
 Total row count: 20,000 Records
 
